@@ -1,0 +1,42 @@
+1) wap to convert temp from degree  into farenheight 
+
+2) wap to calculate no of dot balls and totalruns (take user input)
+
+ex:
+  totalballs=15
+   noof1 =  5
+   nof2 =2
+   noof3=0
+   noof4=1
+   noof6-1
+
+
+totalruns =19 
+dotsballs =15-9=6
+
+3) wap to calculate area of square 
+
+4) wap to generate totalbill
+
+
+noofitem = 5
+priceofitem= 2
+gst = 18
+
+
+total = 10 + 1.8 =11.8rs 
+
+5) wap to calculate cube of a given number
+
+6) wap to swap to numbers  i) using 3rd variable ii) without using 3rd varibale
+
+sample ex :
+
+x=10 , y =20
+
+7) wap to print 'Hello world'
+
+
+  
+
+

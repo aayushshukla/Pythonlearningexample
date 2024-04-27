@@ -1,0 +1,17 @@
+1) wap to show sum of all element of list without using predefined function
+
+l=[10,20,30,40] =100
+
+2) Create a user defined list
+
+n=enter no of elements
+values = enter the value to be added in list
+
+
+3) WAP to store temper of 5 cities in degree celcuis and  convert into farenheight 
+
+4) WAP to find even no in a list
+
+l=[10,20,34,53,31,11,21,23]
+
+l=[10,20,34]
